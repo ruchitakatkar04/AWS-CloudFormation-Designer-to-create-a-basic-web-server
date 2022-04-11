@@ -31,3 +31,16 @@ AWS CloudFormation Designer integrated editor is used to specify resource proper
 **Step 4: Provision resources**
 
 To create a stack, you can launch the CloudFormation Create Stack Wizard from AWS CloudFormation Designer. After CloudFormation provisions all of your resources, you'll have a basic website up and running.
+
+**Modified stack's templete**
+
+A basic web server stack is modify so that the web server is scalable and durable.
+
+Step 1: Get a stack template
+Step 2: Modify a template
+
+AWS CloudFormation Designer is used to modify the stack's template so that your website is scalable and durable by replacing the EC2 instance with an Auto Scaling group and an Elastic Load Balancing load balancer.
+
+Step 3: Update the stack
+
+Step 4: Clean up resources
