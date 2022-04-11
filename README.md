@@ -43,4 +43,4 @@ AWS CloudFormation Designer is used to modify the stack's template so that your 
 
 Step 3: Update the stack
 
-Step 4: Clean up resources
+
